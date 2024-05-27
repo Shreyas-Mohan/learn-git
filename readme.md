@@ -1,1 +1,1 @@
-# learn about git and github from HITESH CHOUDHARY
+# learn about git and github ON FREECODECAMP FROM HITESH CHOUDHARY
